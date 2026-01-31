@@ -103,7 +103,7 @@ const Testimonial = () => {
                   <Star
                     key={i}
                     size={14}
-                    className="fill-zinc-200 text-zinc-200"
+                    className="fill-amber-400 text-amber-400"
                   />
                 ))}
               </div>
